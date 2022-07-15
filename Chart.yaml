@@ -1,0 +1,13 @@
+apiVersion: v2
+name: williamhill-ex
+version: 0.0.1
+appVersion: 9.0.2
+kubeVersion: "^1.8.0-0"
+home: https://github.com/vitaliylukyanenko
+sources:
+  - https://github.com/vitaliylukyanenko/williamhill-ex.git
+maintainers:
+  - name: vitaliilukianenko
+    email: vitaliy.lukyanenko@gmail.com
+engine: gotpl
+type: application
